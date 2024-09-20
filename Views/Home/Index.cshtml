@@ -6,7 +6,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Programa 1</title>
+    <title>Recursividad</title>
         <style>
         body {
             font-family: 'Arial', sans-serif;
@@ -120,6 +120,9 @@
     </header>
     <h1> Elije lo que quieres hacer</h1>
     <ul>
+        <!--Aca cada uno de los links manda a llamar a la IActionResult de Homecontroller.cs con el nombre-->
+        <!--De cada ejercico (fibonacci, MCD, cambio, Factoriales, Hanoi)-->
+        <!--Llama especificamente a los IActionResult que retornan un view (return View())-->
         <li>
         <a asp-controller="Home" asp-action="Factorial"> Factoriales </a>
         </li>

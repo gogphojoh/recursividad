@@ -8,8 +8,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Factorial</title>
+        <!--Etiqueta desde la cual agrego estilo a la pagina. Todos tiene el mismo estilo-->
         <style>
         body {
+            
             font-family: 'Arial', sans-serif;
             background-color: #f0f4f8;
             color: #333;
@@ -112,7 +114,9 @@
     </style>
 </head>
 <body>
+    <!--Encabezado dede el cual conservo los botones predeterminados de .net.-->
     <header>
+        <!--Recursividad es la forma de regresar siempre al index-->
         <nav>
             <a asp-controller="Home" asp-action="Index">recursividad</a>
             <a href="#">Home</a>
@@ -121,28 +125,35 @@
     </header>
     <h1>Factorial</h1>
     <p>Calcular factorial de un numero</p>
+    <!--Se solicitan los datos iniciales, el numero para hacer el calculo y el boton manda el dato a la funcion-->
     <form id="fac">
     <label for="num">Introduce el numero</label>
     <input type="number" id="num" step="any" required> <br>
     <button type="button" onclick="calcularFactorial()">Calcular Factorial</button>
     </form>
+    <!--Aca se imprime el resultado -->
     <br> <p id="resu"></p>
     <script>
+        //la funcion to ma el dato y lo envia a calcularFactorial() en Homecontroller.cs
         function calcularFactorial(){
             let numero = document.getElementById("num").value;
+            //No se puede sacar una factorial negativa. La condicional se encarga de rechazarlo
             if(!numero || numero <= -1){
                 document.getElementById("resu").innerText = "Por favor introduce un valor mayor a 0";
                 return;
             }
+            //Apartir del numero 33 los datos se regresan como 0.
             else if (numero > 33)
             {
                 document.getElementById("resu").innerText = "NO es posible calcular valores mayores a 33"
             }
             else
             {
+                //El dato se envia al controlador en el metodo calcularFactorial() en caso de pasar todas las comprobaciones.
                 fetch(`/Home/calcularFactorial?number=${numero}`)
                 .then(response => response.text())
                 .then(data => {
+                    //el dato obtenido se almacena en una etiqueta visible en HTML.
                     document.getElementById("resu").innerText = data;
                 });
             }

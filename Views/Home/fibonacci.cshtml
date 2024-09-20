@@ -115,10 +115,12 @@
         </nav>
     </header>
     <h1>Sucesion fibonacci</h1>
+    <!--El unico trabajo que hace es llamar la funcion fibonacci(). -->
     <button type="button" onclick="fibonacci()">Iniciar sucesion</button>
 
     <p id="resu"></p>
     <script>
+        //Al llamar fibonacc(), solo pide a almacenar el dato e imprimirlo en html.
         function fibonacci(){
             fetch(`/Home/fibonacc?`)
             .then(response => response.text())

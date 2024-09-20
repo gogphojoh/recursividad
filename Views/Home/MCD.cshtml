@@ -122,6 +122,7 @@
     <h1>Calculadora de Maximo Comun Divisor</h1>
 
     <form id="mcd">
+        <!--Se obtienen los dos numeros para realizar el MCD-->
         <label for="num1">Introduce el primer numero</label> <br>
         <input type="number" id="num1" required> <br>
         <label for="num2"> Introduce el segundo numero</label> <br>
@@ -130,6 +131,7 @@
     </form>
     <p id="resu"></p>
     <script>
+        //Se manda a llamar a calcularMcd() en controlador con los datos previos.
         function calcularMcd(){
             let numero1 = document.getElementById("num1").value;
             let numero2 = document.getElementById("num2").value;

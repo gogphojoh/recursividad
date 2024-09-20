@@ -20,6 +20,7 @@ app.UseRouting();
 
 app.UseAuthorization();
 
+//El programa manda a llamar al index de mi página al correr
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");

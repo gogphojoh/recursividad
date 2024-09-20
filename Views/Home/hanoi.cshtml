@@ -121,14 +121,18 @@
     </header>
     <h1>Resolver Torre de Hanoi</h1>
     <form id="hanoi">
+        <!--Solo es necesrio obtener los discos para jugar al Hanoi-->
         <label for="discos">Introduce la cantidad de discos que hay en este juego: </label>
         <input type="number" id="discos" required> <br>
         <button type="button" onclick="resolver()">Obtener solucion</button>
     </form>
     <p id="resu"></p>
     <script>
+        //Se mandan los datos  a resolver() en el Homecontroller.cs (el controlador)
         function resolver(){
             let disc = document.getElementById("discos").value;
+            //No se pueden introducir mas de 10 discos, pues hacer eso es imposible en un juego real.
+            //Y es un riesgo para la computadora por sobrecarga de datos.
             if(disc > 0 && disc <= 10)
             {
                 fetch(`/Home/resolver?discos=${disc}`)

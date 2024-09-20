@@ -112,7 +112,7 @@
     </header>
 
     <h1>Calculadora de Cambio</h1>
-
+    <!-- Se solicita primero el precio del producto imaginario, y luego lo pagas. -->
     <form id="mon">
         <label for="precio">Introduce el precio:</label>
         <input type="number" id="precio" required> <br>
@@ -129,9 +129,14 @@
     </footer>
 
     <script>
+        //La funcion recibe los datos y los lanza al contorlador.
         function calcularCambio() {
             let pago = document.getElementById("pago").value;
             let precio = document.getElementById("precio").value;
+            /*
+              En caso de intentar pagar menos de lo que vale el producto
+              El programa lo rechazara y te obligara a introducir mas dinero.
+            */
             if((pago - precio) < 0 )
             {
                 document.getElementById("resu").innerText = "No se puede pagar menos de lo que cuesta el producto.";
