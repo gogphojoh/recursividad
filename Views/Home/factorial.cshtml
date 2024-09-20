@@ -134,11 +134,19 @@
                 document.getElementById("resu").innerText = "Por favor introduce un valor mayor a 0";
                 return;
             }
-            fetch(`/Home/calcularFactorial?number=${numero}`)
-            .then(response => response.text())
-            .then(data => {
-                document.getElementById("resu").innerText = data;
-            });
+            else if (numero > 33)
+            {
+                document.getElementById("resu").innerText = "NO es posible calcular valores mayores a 33"
+            }
+            else
+            {
+                fetch(`/Home/calcularFactorial?number=${numero}`)
+                .then(response => response.text())
+                .then(data => {
+                    document.getElementById("resu").innerText = data;
+                });
+            }
+
         }
     </script>
 </body>

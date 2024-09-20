@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6dYXY1FyoyJT2Mu84p0hl38MqpCqu7GNjLnvGjr8pPY=",
+  "Hash": "AXGliI+2/SWMJ121UxAnaVFm4Hf3qOisBziTYA8SoPs=",
   "Source": "recursividad",
   "BasePath": "_content/recursividad",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "recursividad/wwwroot",
       "Source": "recursividad",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/obj/Debug/net7.0/scopedcss/bundle/recursividad.styles.css",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/obj/Debug/net7.0/scopedcss/bundle/recursividad.styles.css",
       "SourceId": "recursividad",
       "SourceType": "Computed",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/obj/Debug/net7.0/scopedcss/bundle/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/obj/Debug/net7.0/scopedcss/bundle/",
       "BasePath": "_content/recursividad",
       "RelativePath": "recursividad.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/obj/Debug/net7.0/scopedcss/bundle/recursividad.styles.css"
+      "OriginalItemSpec": "/home/gogphojoh/Recursividad/recursividad/obj/Debug/net7.0/scopedcss/bundle/recursividad.styles.css"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/obj/Debug/net7.0/scopedcss/projectbundle/recursividad.bundle.scp.css",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/obj/Debug/net7.0/scopedcss/projectbundle/recursividad.bundle.scp.css",
       "SourceId": "recursividad",
       "SourceType": "Computed",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/obj/Debug/net7.0/scopedcss/projectbundle/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/obj/Debug/net7.0/scopedcss/projectbundle/",
       "BasePath": "_content/recursividad",
       "RelativePath": "recursividad.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/obj/Debug/net7.0/scopedcss/projectbundle/recursividad.bundle.scp.css"
+      "OriginalItemSpec": "/home/gogphojoh/Recursividad/recursividad/obj/Debug/net7.0/scopedcss/projectbundle/recursividad.bundle.scp.css"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/css/site.css",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/css/site.css",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/favicon.ico",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/favicon.ico",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/js/site.js",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/js/site.js",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/bootstrap/LICENSE",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/bootstrap/LICENSE",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/jquery-validation/LICENSE.md",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/jquery/dist/jquery.js",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/jquery/dist/jquery.js",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/jquery/dist/jquery.min.js",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/jquery/dist/jquery.min.map",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Identity": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/lib/jquery/LICENSE.txt",
+      "Identity": "/home/gogphojoh/Recursividad/recursividad/wwwroot/lib/jquery/LICENSE.txt",
       "SourceId": "recursividad",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/wwwroot/",
+      "ContentRoot": "/home/gogphojoh/Recursividad/recursividad/wwwroot/",
       "BasePath": "_content/recursividad",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

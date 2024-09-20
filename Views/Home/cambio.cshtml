@@ -132,11 +132,18 @@
         function calcularCambio() {
             let pago = document.getElementById("pago").value;
             let precio = document.getElementById("precio").value;
-            fetch(`/Home/calcularCambio?precio=${precio}&pago=${pago}`)
-            .then(response => response.text())
-            .then(data => {
-                document.getElementById("resu").innerText = data;
-            });
+            if((pago - precio) < 0 )
+            {
+                document.getElementById("resu").innerText = "No se puede pagar menos de lo que cuesta el producto.";
+            }
+            else
+            {
+                fetch(`/Home/calcularCambio?precio=${precio}&pago=${pago}`)
+                .then(response => response.text())
+                .then(data => {
+                    document.getElementById("resu").innerText = data;
+                });
+            }
         }
     </script>
 </body>

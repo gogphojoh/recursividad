@@ -28,3 +28,33 @@
 /home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/obj/Debug/net7.0/recursividad.pdb
 /home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/obj/Debug/net7.0/recursividad.genruntimeconfig.cache
 /home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/obj/Debug/net7.0/ref/recursividad.dll
+/home/gogphojoh/Recursividad/recursividad/bin/Debug/net7.0/appsettings.Development.json
+/home/gogphojoh/Recursividad/recursividad/bin/Debug/net7.0/appsettings.json
+/home/gogphojoh/Recursividad/recursividad/bin/Debug/net7.0/recursividad.staticwebassets.runtime.json
+/home/gogphojoh/Recursividad/recursividad/bin/Debug/net7.0/recursividad
+/home/gogphojoh/Recursividad/recursividad/bin/Debug/net7.0/recursividad.deps.json
+/home/gogphojoh/Recursividad/recursividad/bin/Debug/net7.0/recursividad.runtimeconfig.json
+/home/gogphojoh/Recursividad/recursividad/bin/Debug/net7.0/recursividad.dll
+/home/gogphojoh/Recursividad/recursividad/bin/Debug/net7.0/recursividad.pdb
+/home/gogphojoh/Recursividad/recursividad/obj/Debug/net7.0/recursividad.GeneratedMSBuildEditorConfig.editorconfig
+/home/gogphojoh/Recursividad/recursividad/obj/Debug/net7.0/recursividad.AssemblyInfoInputs.cache
+/home/gogphojoh/Recursividad/recursividad/obj/Debug/net7.0/recursividad.AssemblyInfo.cs
+/home/gogphojoh/Recursividad/recursividad/obj/Debug/net7.0/recursividad.csproj.CoreCompileInputs.cache
+/home/gogphojoh/Recursividad/recursividad/obj/Debug/net7.0/recursividad.MvcApplicationPartsAssemblyInfo.cache
+/home/gogphojoh/Recursividad/recursividad/obj/Debug/net7.0/recursividad.RazorAssemblyInfo.cache
+/home/gogphojoh/Recursividad/recursividad/obj/Debug/net7.0/recursividad.RazorAssemblyInfo.cs
+/home/gogphojoh/Recursividad/recursividad/obj/Debug/net7.0/staticwebassets/msbuild.recursividad.Microsoft.AspNetCore.StaticWebAssets.props
+/home/gogphojoh/Recursividad/recursividad/obj/Debug/net7.0/staticwebassets/msbuild.build.recursividad.props
+/home/gogphojoh/Recursividad/recursividad/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.recursividad.props
+/home/gogphojoh/Recursividad/recursividad/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.recursividad.props
+/home/gogphojoh/Recursividad/recursividad/obj/Debug/net7.0/staticwebassets.pack.json
+/home/gogphojoh/Recursividad/recursividad/obj/Debug/net7.0/staticwebassets.build.json
+/home/gogphojoh/Recursividad/recursividad/obj/Debug/net7.0/staticwebassets.development.json
+/home/gogphojoh/Recursividad/recursividad/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/gogphojoh/Recursividad/recursividad/obj/Debug/net7.0/scopedcss/bundle/recursividad.styles.css
+/home/gogphojoh/Recursividad/recursividad/obj/Debug/net7.0/scopedcss/projectbundle/recursividad.bundle.scp.css
+/home/gogphojoh/Recursividad/recursividad/obj/Debug/net7.0/recursividad.dll
+/home/gogphojoh/Recursividad/recursividad/obj/Debug/net7.0/refint/recursividad.dll
+/home/gogphojoh/Recursividad/recursividad/obj/Debug/net7.0/recursividad.pdb
+/home/gogphojoh/Recursividad/recursividad/obj/Debug/net7.0/recursividad.genruntimeconfig.cache
+/home/gogphojoh/Recursividad/recursividad/obj/Debug/net7.0/ref/recursividad.dll

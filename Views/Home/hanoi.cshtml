@@ -137,9 +137,13 @@
                     document.getElementById("resu").innerText = data;
                 });
             }
-            else
+            else if (disc <= 0)
             {
-                document.getElementById("resu").innerText = "Es imposible jugar con 0 discos. Introduce una cantidad mayor a 0";
+                document.getElementById("resu").innerText = "Es imposible jugar con 0 discos o discos negativos. Introduce una cantidad mayor a 0";
+            }
+            else if (disc > 10)
+            {
+                document.getElementById("resu").innerText = "No puede jugar con mas de 10 discos";
             }
         }
     </script>
