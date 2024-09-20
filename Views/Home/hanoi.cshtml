@@ -129,7 +129,7 @@
     <script>
         function resolver(){
             let disc = document.getElementById("discos").value;
-            if(disc > 0)
+            if(disc > 0 && disc <= 10)
             {
                 fetch(`/Home/resolver?discos=${disc}`)
                 .then(response => response.text())

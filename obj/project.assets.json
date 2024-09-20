@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/recursividad.csproj",
+      "projectUniqueName": "/home/gogphojoh/Recursividad/recursividad/recursividad.csproj",
       "projectName": "recursividad",
-      "projectPath": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/recursividad.csproj",
+      "projectPath": "/home/gogphojoh/Recursividad/recursividad/recursividad.csproj",
       "packagesPath": "/home/gogphojoh/.nuget/packages/",
-      "outputPath": "/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/obj/",
+      "outputPath": "/home/gogphojoh/Recursividad/recursividad/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/gogphojoh/.nuget/NuGet/NuGet.Config"

@@ -9,57 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = recursividad
 build_property.RootNamespace = recursividad
-build_property.ProjectDir = /home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/
+build_property.ProjectDir = /home/gogphojoh/Recursividad/recursividad/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad
+build_property.MSBuildProjectDirectory = /home/gogphojoh/Recursividad/recursividad
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/Views/Home/cambio.cshtml]
+[/home/gogphojoh/Recursividad/recursividad/Views/Home/cambio.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9jYW1iaW8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/Views/Home/factorial.cshtml]
+[/home/gogphojoh/Recursividad/recursividad/Views/Home/factorial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9mYWN0b3JpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/Views/Home/fibonacci.cshtml]
+[/home/gogphojoh/Recursividad/recursividad/Views/Home/fibonacci.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9maWJvbmFjY2kuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/Views/Home/hanoi.cshtml]
+[/home/gogphojoh/Recursividad/recursividad/Views/Home/hanoi.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9oYW5vaS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/Views/Home/Index.cshtml]
+[/home/gogphojoh/Recursividad/recursividad/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/Views/Home/MCD.cshtml]
+[/home/gogphojoh/Recursividad/recursividad/Views/Home/MCD.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9NQ0QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/Views/Home/Privacy.cshtml]
+[/home/gogphojoh/Recursividad/recursividad/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/Views/Shared/Error.cshtml]
+[/home/gogphojoh/Recursividad/recursividad/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/home/gogphojoh/Recursividad/recursividad/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/Views/_ViewImports.cshtml]
+[/home/gogphojoh/Recursividad/recursividad/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/Views/_ViewStart.cshtml]
+[/home/gogphojoh/Recursividad/recursividad/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/gogphojoh/Proyectos de Informatica/Recursividad/recursividad/Views/Shared/_Layout.cshtml]
+[/home/gogphojoh/Recursividad/recursividad/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-h7owtmxnsh
